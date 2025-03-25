@@ -4,12 +4,6 @@
 
 ## Как запустить
 
-Переход в папку sharding-repl-cache
-
-```shell
-cd sharding-repl-cache
-```
-
 Запуск контейнеров
 
 ```shell
